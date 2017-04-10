@@ -2,8 +2,8 @@
 title: New hours!
 date: 2017-04-09
 layout: Post
-# hero credit: https://www.flickr.com/photos/igotz/15669216853/
-hero: https://farm8.staticflickr.com/7479/15669216853_aa8e70eae1_o.jpg
+hero: https://farm5.staticflickr.com/4042/5077124966_cb0bd93939_o_d.jpg
+# hero credit: https://flic.kr/p/8JDAnm
 ---
 
 Our hours of operation have been updated! [See them](/hours).
