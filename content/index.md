@@ -1,25 +1,18 @@
 ---
-title: Phenomic base theme
+title: Irvine University Park Friends of the Library
 layout: Homepage
-hero: https://farm4.staticflickr.com/3949/15589950511_3675b15e59_k.jpg
-# hero credit: https://www.flickr.com/photos/pslee999/15589950511/
+hero: https://farm5.staticflickr.com/4042/5077124966_cb0bd93939_o_d.jpg
+# hero credit: https://flic.kr/p/8JDAnm
 cta:
   label: About this theme
   link: "about"
 ---
 
-Hi there. Before having fun with Phenomic, be sure to read the documentation :
+The Friends of the Library is dedicated to raising money for the University
+Park public library. Our bookstore sells books, books on tape and CD, CDs,
+DVDs, games, puzzles, etc. that are generously donated by the community. We are
+run by a small and loyal group of volunteers.
 
-* [How to setup a new project with Phenomic](https://phenomic.io/docs/setup/)
-* [Getting Started with Phenomic](https://phenomic.io/docs/getting-started/)
-* [Usage & APIs](https://phenomic.io/docs/usage/)
-* [FAQ](https://phenomic.io/docs/faq/)
-
-Also take a look at
-[existing websites that use Phenomic](https://phenomic.io/showcase/),
-some projects share their source code!
-
-<!-- demo to show you that you can use "assets" folder -->
 <small>
   Built with
   <a href="https://facebook.github.io/react/">
@@ -27,18 +20,3 @@ some projects share their source code!
     React
   </a>.
 </small>
-
----
-
-You may want to take a look at the [404.html](/404.html) and tweak the render.
-
-If you need to make adjustments, you can directly alter page layouts in
-``src/layouts/``;
-small things like the header, footer, buttons and so on can be changed in
-``src/components/``;
-and for colors and common CSS variables, you can modify ``postcss.config.js``.
-
-_You feel like the base theme is not enough or you just saw something wrong?_
-[Please help us make Phenomic better!](https://phenomic.io/contributing/)
-
----
