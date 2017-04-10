@@ -19,25 +19,25 @@ const Header = (props, { metadata: { pkg } }) => (
         </Link>
         <Link
           className={ styles.link }
-          to={ "/hours" }
+          to={ "/hours/" }
         >
           { "Hours" }
         </Link>
         <Link
           className={ styles.link }
-          to={ "/contact" }
+          to={ "/contact/" }
         >
           { "Contact" }
         </Link>
         <Link
           className={ styles.link }
-          to={ "/donating" }
+          to={ "/donating/" }
         >
           { "Donating" }
         </Link>
         <Link
           className={ styles.link }
-          to={ "/volunteering" }
+          to={ "/volunteering/" }
         >
           { "Volunteering" }
         </Link>
