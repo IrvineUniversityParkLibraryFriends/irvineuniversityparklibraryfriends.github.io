@@ -6,7 +6,7 @@ hero: https://farm4.staticflickr.com/3949/15589950511_3675b15e59_k.jpg
 
 Address
 -------
-4512 Sandburg Way
+4512 Sandburg Way<br />
 Irvine, CA 92612
 
 Email
