@@ -18,3 +18,102 @@ friendsirvineuplib@gmail.com
 Phone
 -----
 (949) 786-1946
+
+Hours
+-----
+
+### Friends of the Library
+
+<table>
+<thead>
+  <tr>
+    <th>Day
+    <th>Open
+    <th>Close
+</thead>
+<tbody>
+  <tr>
+    <td>Monday
+    <td>12:00PM
+    <td>7:30PM
+  </tr>
+  <tr>
+    <td>Tuesday
+    <td>10:30AM
+    <td>7:30PM
+  </tr>
+  <tr>
+    <td>Wednesday
+    <td>CLOSED
+    <td>CLOSED
+  </tr>
+  <tr>
+    <td>Thursday
+    <td>10:30AM
+    <td>6:30PM
+  </tr>
+  <tr>
+    <td>Friday
+    <td>10:00AM
+    <td>4:00PM
+  </tr>
+  <tr>
+    <td>Saturday
+    <td>10:30AM
+    <td>4:30PM
+  </tr>
+  <tr>
+    <td>Sunday
+    <td>CLOSED
+    <td>CLOSED
+  </tr>
+</tbody>
+</table>
+
+### Main Library
+
+<table class="table table-striped table-bordered table-hover">
+<thead>
+  <tr>
+    <th>Day
+    <th>Open
+    <th>Close
+</thead>
+<tbody>
+  <tr>
+    <td>Monday
+    <td>10:00AM
+    <td>8:00PM
+  </tr>
+  <tr>
+    <td>Tuesday
+    <td>10:00AM
+    <td>8:00PM
+  </tr>
+  <tr>
+    <td>Wednesday
+    <td>10:00AM
+    <td>8:00PM
+  </tr>
+  <tr>
+    <td>Thursday
+    <td>10:00AM
+    <td>8:00PM
+  </tr>
+  <tr>
+    <td>Friday
+    <td>9:00AM
+    <td>5:00PM
+  </tr>
+  <tr>
+    <td>Saturday
+    <td>9:00AM
+    <td>5:00PM
+  </tr>
+  <tr>
+    <td>Sunday
+    <td>9:00AM
+    <td>5:00PM
+  </tr>
+</tbody>
+</table>
