@@ -4,6 +4,8 @@ hero: https://farm4.staticflickr.com/3949/15589950511_3675b15e59_k.jpg
 # hero credit: https://www.flickr.com/photos/pslee999/15589950511/
 ---
 
+Friends of the Library
+----------------------
 <table>
 <thead>
   <tr>
@@ -42,7 +44,8 @@ hero: https://farm4.staticflickr.com/3949/15589950511_3675b15e59_k.jpg
 </tbody>
 </table>
 
-University Park Library:
+Main Library
+------------
 <table class="table table-striped table-bordered table-hover">
 <thead>
   <tr>
