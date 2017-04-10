@@ -3,9 +3,6 @@ title: Irvine University Park Friends of the Library
 layout: Homepage
 hero: https://farm5.staticflickr.com/4042/5077124966_cb0bd93939_o_d.jpg
 # hero credit: https://flic.kr/p/8JDAnm
-cta:
-  label: About this theme
-  link: "about"
 ---
 
 The Friends of the Library is dedicated to raising money for the University

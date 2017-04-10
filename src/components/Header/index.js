@@ -29,6 +29,18 @@ const Header = (props, { metadata: { pkg } }) => (
         >
           { "Contact" }
         </Link>
+        <Link
+          className={ styles.link }
+          to={ "/donating" }
+        >
+          { "Donating" }
+        </Link>
+        <Link
+          className={ styles.link }
+          to={ "/volunteering" }
+        >
+          { "Volunteering" }
+        </Link>
       </div>
       <div className={ styles.navPart2 }>
         {
