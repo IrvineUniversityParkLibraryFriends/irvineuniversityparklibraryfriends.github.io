@@ -10,35 +10,43 @@ Friends of the Library
 <thead>
   <tr>
     <th>Day
-    <th>Hours
+    <th>Open
+    <th>Close
 </thead>
 <tbody>
   <tr>
     <td>Monday
-    <td>12:00PM - 7:30PM
+    <td>12:00PM
+    <td>7:30PM
   </tr>
   <tr>
     <td>Tuesday
-    <td>10:30AM - 7:30PM
+    <td>10:30AM
+    <td>7:30PM
   </tr>
-  <tr class="warning">
+  <tr>
     <td>Wednesday
+    <td>CLOSED
     <td>CLOSED
   </tr>
   <tr>
     <td>Thursday
-    <td>10:30AM - 6:30PM
+    <td>10:30AM
+    <td>6:30PM
   </tr>
   <tr>
     <td>Friday
-    <td>10:00AM - 4:00PM
+    <td>10:00AM
+    <td>4:00PM
   </tr>
   <tr>
     <td>Saturday
-    <td>10:30AM - 4:30PM
+    <td>10:30AM
+    <td>4:30PM
   </tr>
-  <tr class="warning">
+  <tr>
     <td>Sunday
+    <td>CLOSED
     <td>CLOSED
   </tr>
 </tbody>
@@ -50,16 +58,44 @@ Main Library
 <thead>
   <tr>
     <th>Day
-    <th>Hours
+    <th>Open
+    <th>Close
 </thead>
 <tbody>
   <tr>
-    <td>Monday - Thursday
-    <td>10:00AM - 8:00PM
+    <td>Monday
+    <td>10:00AM
+    <td>8:00PM
   </tr>
   <tr>
-    <td>Friday - Sunday
-    <td>9:00AM - 5:00PM
+    <td>Tuesday
+    <td>10:00AM
+    <td>8:00PM
+  </tr>
+  <tr>
+    <td>Wednesday
+    <td>10:00AM
+    <td>8:00PM
+  </tr>
+  <tr>
+    <td>Thursday
+    <td>10:00AM
+    <td>8:00PM
+  </tr>
+  <tr>
+    <td>Friday
+    <td>9:00AM
+    <td>5:00PM
+  </tr>
+  <tr>
+    <td>Saturday
+    <td>9:00AM
+    <td>5:00PM
+  </tr>
+  <tr>
+    <td>Sunday
+    <td>9:00AM
+    <td>5:00PM
   </tr>
 </tbody>
 </table>
