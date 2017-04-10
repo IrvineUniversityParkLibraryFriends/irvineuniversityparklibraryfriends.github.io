@@ -1,19 +1,26 @@
-# [Phenomic](https://github.com/MoOx/phenomic) phenomic-theme-base
+Friends of the Library
+======================
 
-## Install dependencies
+This repository generates the website for the Friends of the Irvine University
+Park Library. It is a React application hosted by Github Pages.
+
+Install dependencies
+--------------------
 
 ```sh
-npm install
+yarn install
 ```
 
-## Run development server
+Run development server
+----------------------
 
 ```sh
-npm start
+yarn start
 ```
 
-## Build for production
+Build for production
+--------------------
 
 ```sh
-npm run build
+yarn run deploy
 ```
