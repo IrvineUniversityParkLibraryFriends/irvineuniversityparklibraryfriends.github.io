@@ -7,10 +7,11 @@ hero: https://farm5.staticflickr.com/4042/5077124966_cb0bd93939_o_d.jpg
 
 Mission statement
 -----------------
-The Friends of the Library is dedicated to raising money for the University
-Park public library. Our bookstore sells books, books on tape and CD, CDs,
-DVDs, games, puzzles, etc. that are generously donated by the community. We are
-run by a small and loyal group of volunteers.
+The Friends of the Library is dedicated to supporting the University Park
+public library in all aspects. We raise money for the library, promote it, and
+provide a source of books for its community. Our bookstore sells books,
+audiobooks, DVDs, games, puzzles, etc., that are generously donated by the
+community. We are run by a small and loyal group of volunteers.
 
 History
 -------
