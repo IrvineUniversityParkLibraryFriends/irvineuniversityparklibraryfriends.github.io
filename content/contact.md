@@ -13,7 +13,7 @@ Irvine, CA 92612
 
 Email
 -----
-friendsirvineuplib@gmail.com
+[friendsirvineuplib@gmail.com](mailto:friendsirvineuplib@gmail.com)
 
 Phone
 -----
@@ -39,7 +39,7 @@ Hours
   </tr>
   <tr>
     <td>Tuesday
-    <td>10:30AM
+    <td>12:00PM
     <td>7:30PM
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Hours
   <tr>
     <td>Friday
     <td>10:00AM
-    <td>4:00PM
+    <td>2:00PM
   </tr>
   <tr>
     <td>Saturday
