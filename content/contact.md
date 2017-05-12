@@ -13,7 +13,7 @@ Irvine, CA 92612
 
 Email
 -----
-[friendsirvineuplib@gmail.com](mailto:friendsirvineuplib@gmail.com)
+[upfriendsbooks@gmail.com](mailto:upfriendsbooks@gmail.com)
 
 Phone
 -----
