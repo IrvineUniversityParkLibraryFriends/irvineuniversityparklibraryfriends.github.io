@@ -70,7 +70,7 @@ Hours
 </tbody>
 </table>
 
-### Main Library
+### University Park Library
 
 <table class="table table-striped table-bordered table-hover">
 <thead>
