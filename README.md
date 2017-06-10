@@ -8,19 +8,19 @@ Install dependencies
 --------------------
 
 ```sh
-yarn install
+npm install
 ```
 
 Run development server
 ----------------------
 
 ```sh
-yarn start
+npm start
 ```
 
 Build for production
 --------------------
 
 ```sh
-yarn run deploy
+npm run deploy
 ```
