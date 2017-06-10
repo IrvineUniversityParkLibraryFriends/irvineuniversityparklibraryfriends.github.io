@@ -46,7 +46,7 @@ const AppContainer = (props) => (
         { async: true, src: "https://www.google-analytics.com/analytics.js" },
         // Generated with:
         //   ./node_modules/autotrack/bin/autotrack -o scripts/autotrack.custom.js -p eventTracker,outboundLinkTracker,urlChangeTracker,outboundFormTracker,cleanUrlTracker
-        { async: true, src: "assets/autotrack.custom.js" },
+        { async: true, src: "/assets/autotrack.custom.js" },
       ] }
     />
     <Header />
