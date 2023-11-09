@@ -34,33 +34,33 @@ Hours
 <tbody>
   <tr>
     <td>Monday
-    <td>10:00AM
+    <td>12:00PM
     <td>7:30PM
   </tr>
   <tr>
     <td>Tuesday
-    <td>CLOSED
-    <td>CLOSED
-  </tr>
-  <tr>
-    <td>Wednesday
-    <td>10:00AM
+    <td>12:00PM
     <td>7:30PM
   </tr>
   <tr>
+    <td>Wednesday
+    <td>CLOSED
+    <td>CLOSED
+  </tr>
+  <tr>
     <td>Thursday
-    <td>CLOSED
-    <td>CLOSED
+    <td>10:30AM
+    <td>6:30PM
   </tr>
   <tr>
     <td>Friday
-    <td>CLOSED
-    <td>CLOSED
+    <td>10:00AM
+    <td>2:00PM
   </tr>
   <tr>
     <td>Saturday
-    <td>9:30AM
-    <td>3:00PM
+    <td>10:30AM
+    <td>4:30PM
   </tr>
   <tr>
     <td>Sunday
