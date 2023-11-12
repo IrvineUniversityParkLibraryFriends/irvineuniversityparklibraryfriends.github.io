@@ -1,4 +1,4 @@
-[About](/#about) // [Contact](/#contact) // [Donating](/#donating) // [Volunteering](/#volunteering)
+[About](/#about) // [Donating](/#donating) // [Volunteering](/#volunteering) // [Contact](/#contact)
 
 ## About
 
@@ -17,6 +17,21 @@ We spearheaded the campaign for a much-needed renovation of the University Park 
 ### Memorial leaf donation
 
 Donations of $500 in memory of deceased loved ones and friends will be displayed as a _GOLD LEAF_ on our Friends of the Library Memory Garden Tree. Donations of $1,000 and more for a living contributor will be displayed as a _GOLD LEAF_ on our Friends of the Library Memory Garden Tree.
+
+## Donating
+
+We accept donations during operating hours at the Friends of the Library, or
+donations can be made to the library at other times. We accept everything
+except magazines and encyclopedias. If you wish to donate money, please fill
+out a monetary donation form. You can pick up a form at the bookstore or
+download one [here](/assets/donation_form.pdf).
+
+## Volunteering
+
+You must be at least 18 years old to volunteer. You may pick up an application
+at the Friends of the Library, or download one
+[here](/assets/volunteer_application.pdf). After completing the form, submit
+it to the Friends of the Library during operating hours.
 
 ## Contact
 
@@ -46,51 +61,27 @@ Irvine, CA 92612
       <td>Monday
       <td>10:00AM
       <td>7:30PM
-    </tr>
     <tr>
       <td>Tuesday
       <td>CLOSED
       <td>CLOSED
-    </tr>
     <tr>
       <td>Wednesday
       <td>10:00AM
       <td>7:30PM
-    </tr>
     <tr>
       <td>Thursday
       <td>CLOSED
       <td>CLOSED
-    </tr>
     <tr>
       <td>Friday
       <td>CLOSED
       <td>CLOSED
-    </tr>
     <tr>
       <td>Saturday
       <td>9:30AM
       <td>3:00PM
-    </tr>
     <tr>
       <td>Sunday
       <td>CLOSED
       <td>CLOSED
-    </tr>
-  </tbody>
-</table>
-
-## Donating
-
-We accept donations during operating hours at the Friends of the Library, or
-donations can be made to the library at other times. We accept everything
-except magazines and encyclopedias. If you wish to donate money, please fill
-out a monetary donation form. You can pick up a form at the bookstore or
-download one [here](/assets/donation_form.pdf).
-
-## Volunteering
-
-You must be at least 18 years old to volunteer. You may pick up an application
-at the Friends of the Library, or download one
-[here](/assets/volunteer_application.pdf). After completing the form, submit
-it to the Friends of the Library during operating hours.
