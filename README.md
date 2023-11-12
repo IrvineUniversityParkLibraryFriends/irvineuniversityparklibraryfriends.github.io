@@ -1,4 +1,6 @@
-[About](/#about) // [Donating](/#donating) // [Volunteering](/#volunteering) // [Contact](/#contact)
+# Irvine University Park Friends of the Library
+
+[About](/#about) // [Donating](/#donating) // [Volunteering](/#volunteering) // [Contact](/#contact) // [Hours](/#hours)
 
 ## About
 
@@ -47,7 +49,7 @@ Irvine, CA 92612
 ### Phone
 (949) 786-1946
 
-### Hours
+## Hours
 
 <table>
   <thead>
@@ -55,7 +57,6 @@ Irvine, CA 92612
       <th>Day
       <th>Open
       <th>Close
-  </thead>
   <tbody>
     <tr>
       <td>Monday
